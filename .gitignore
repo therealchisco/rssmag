@@ -2,3 +2,4 @@ venv/
 rssmag/feed/article-old.py
 rssmag/article/
 rssmag/__pycache__/
+rssmag/feed/__pycache__/
