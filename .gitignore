@@ -1,0 +1,4 @@
+venv/
+rssmag/feed/article-old.py
+rssmag/article/
+rssmag/__pycache__/
